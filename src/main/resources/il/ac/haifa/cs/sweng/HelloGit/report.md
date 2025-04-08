@@ -1,2 +1,2 @@
 mohammad akariya - 211862024
-![lab4](src/main/resources/photo1.png)
+![lab4](photo1.png)
