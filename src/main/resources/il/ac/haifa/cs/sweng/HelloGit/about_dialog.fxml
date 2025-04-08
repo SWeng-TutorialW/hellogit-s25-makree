@@ -19,5 +19,12 @@
 		</font>
 	</Label>
 
+	<!-- Your name label -->
+	<Label alignment="CENTER"
+		   text="Mohammed Akariya"
+		   textAlignment="CENTER">
+		<font>
+			<Font size="20.0" />
+		</font>
+	</Label>
 </VBox>
-
