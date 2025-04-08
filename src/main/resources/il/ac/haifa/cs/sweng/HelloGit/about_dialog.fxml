@@ -19,7 +19,7 @@
 		</font>
 	</Label>
 
-	<!-- Your name label -->
+	<!-- My name label -->
 	<Label alignment="CENTER"
 		   text="Mohammed Akariya"
 		   textAlignment="CENTER">
